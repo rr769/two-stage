@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\BbNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\CVRP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\InstanceData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\VRPTW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\branch_highLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\branch_phase0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\branch_phase1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\branch_phase2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\branching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\depth_first_branching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\doSB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\dynamics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\branching\lower_bound_prioritize_branching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\buildEnumerationMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\arcBasedMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\designMems.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\findLeastMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\generateCrazyCut.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\getResourceMem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\robust_control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\cutting\sepCuts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\deluxing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\eliminateArcs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\enumerateMIP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\exactLabeling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\getTopologicalOrder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\initialBucketGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\labelingFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\machine_learning\collect_extra_features.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\machine_learning\k_means.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\machine_learning\machine_learning.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\machine_learning\predict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\machine_learning\train.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\monitorMem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\pricing_dual\combine_faster_smoothing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\pricing_dual\dual_smoothing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\pricing_dual\dual_trial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\pricing_dual\faster_dual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\printMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\solver_interface\solver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\solver_interface\solver_cplex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\solver_interface\solver_grb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\test_dual\read_dual_sol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\two_stage_solution\cvrp_faster_dual.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\two_stage_solution\read_enumeration_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\src\two_stage_solution\write_enumeration_tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\p\opre\2023.0615-main\RouteOpt\Application\CVRP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9B8AE30E-7999-3709-A5AF-B05113BECF84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
